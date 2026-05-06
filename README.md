@@ -30,7 +30,6 @@ python backtest.py    # runs the strategy, writes results/
 | `config.py`      | API keys, date range, series IDs, results dir             |
 | `data.py`        | Pulls FRED + EIA series, builds the daily panel           |
 | `backtest.py`    | Signal, walk-forward backtest, control + IS/OOS, plots    |
-| `report.tex`     | 4-page writeup of methods and results                     |
 | `results/`       | `panel.parquet`, `backtest_*.parquet`, report, plot       |
 
 ## Strategy in one paragraph
