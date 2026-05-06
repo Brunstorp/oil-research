@@ -2,7 +2,7 @@
 
 IEOR 198 final project. Tests whether the WTI calendar spread (F2 − F1) mean-reverts when OVX is in a high-volatility regime.
 
-**Result: null.** Net Sharpe 0.012 (t = 0.02), beaten by an always-on baseline. See `report.tex` for discussion.
+**Result: null.** Net Sharpe 0.012 (t = 0.02), beaten by an always-on baseline. 
 
 ## Setup
 
